@@ -1,1 +1,2 @@
-
+#required libraries for python
+import opencv, matplotlib, numpy
