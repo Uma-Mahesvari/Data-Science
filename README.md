@@ -23,14 +23,8 @@ Each project is contained within its own directory and accompanied by a README f
 
 Feel free to explore, learn, and contribute to these projects. Contributions, suggestions, and feedback are always welcome!
 
-## License:
-
-This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code for both commercial and non-commercial purposes. However, attribution is appreciated.
-
 ## About:
 
 This repository is maintained by [[Github/Uma-Mahesvari](https://github.com/Uma-Mahesvari)]. For any inquiries or collaborations, please contact [umamahesvari10@gmail.com].
 
 ---
-
-Feel free to customize this template according to your specific projects and preferences.
