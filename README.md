@@ -17,8 +17,6 @@ Welcome to the repository for various data science projects implemented in Pytho
 
 Each project is contained within its own directory and accompanied by a README file with detailed instructions on usage, data sources, and dependencies. The projects are structured to facilitate easy navigation and reproducibility.
 
-Feel free to explore, learn, and contribute to these projects. Contributions, suggestions, and feedback are always welcome!
-
 ## About:
 
 This repository is maintained by [[Github/Uma-Mahesvari](https://github.com/Uma-Mahesvari)]. For any inquiries or collaborations, please contact [umamahesvari10@gmail.com].
