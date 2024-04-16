@@ -6,10 +6,6 @@ Welcome to the repository for various data science projects implemented in Pytho
 
 1. **Enhancing Medical Image Quality using Histogram Equalization**: Utilize histogram equalization algorithms to enhance quality of the medical image.
 2. **Multimodal Sentimental Analysis using RNN**: Analyze sentiment from audio, text and movie reviews using natural language processing techniques along with RNN.
-3. **Customer Segmentation**: Segment customers based on their purchasing behavior using clustering algorithms.
-4. **Time Series Forecasting**: Forecast future values based on historical time series data using ARIMA or LSTM models.
-5. **Image Classification with CNNs**: Build convolutional neural networks to classify images into predefined categories.
-6. **Recommendation Systems**: Implement collaborative filtering or content-based recommendation systems for personalized recommendations.
 
 ## Requirements:
 
